@@ -51,7 +51,8 @@
     { "id": 49, "status": "cancelado", "fecha": "20220502", "electricidad": 10027, "agua": 498, "total": 158.40 },
     { "id": 50, "status": "cancelado", "fecha": "20220603", "electricidad": 10197, "agua": 506, "total": 150.80 },
     { "id": 51, "status": "cancelado", "fecha": "20220704", "electricidad": 10351, "agua": 513, "total": 135.94 },
-    { "id": 52, "status": "cancelado", "fecha": "20220803", "electricidad": 10456, "agua": 519, "total": 96.00 }
+    { "id": 52, "status": "cancelado", "fecha": "20220803", "electricidad": 10456, "agua": 519, "total": 96.00 },
+    { "id": 53, "status": "cancelado", "fecha": "20220901", "electricidad": 10550, "agua": 524, "total": 86.94 }
   ],
   "tarifas": [
     { "id": 1, "status": "cancelado", "fecha": "20180426", "alquiler": 700, "electricidad": 0.50, "agua": 2.40 },
